@@ -1,0 +1,10 @@
+{
+	"files": {
+		"index.js": "fb484da2bf2d57c296274d0aabbbccd256f1bba47081a8838e210c6cbb7bae2c",
+		"module.json": "eb13532eb3e847528dfcce86e4b6a124482e6e7b99b1ac1b3b73381cfc00b5bb"
+	},
+	"defs": {
+		"S_BATTLE_FIELD_ENTRANCE_INFO": "raw",
+		"S_FIN_INTER_PARTY_MATCH": "raw"
+	}
+}

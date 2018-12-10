@@ -1,0 +1,15 @@
+{
+    "disableAutoUpdate": false,
+    "name": "no_more_missed_queues",
+    "author": "Seren",
+    "description": "Alerts you when IMS or Battleground queues popped using windows notifications.",
+    "version": "1.0.0",
+    "options": {
+        "niceName":"No More Missed Queues"
+    },
+    "servers": ["https://raw.githubusercontent.com/SerenTera/no-more-missed-queues/master/"],
+	"dependencies": {
+        "notifier":"https://raw.githubusercontent.com/SerenTera/tera-notifier/master/module.json"
+    },
+    "conflicts": ["afk-notify"]
+}
